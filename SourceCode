@@ -14,9 +14,10 @@
   <title>Welcome</title>
   <style>
   body {
-    color: #ffffff;
-    background-color: #c7c7c7;
-    font-family: Arial, sans-serif;
+    color: #FFFFF0;
+    background-color: #008080;
+    font-family: Comic sans MS
+, Impact;
     font-size:14px;
     -moz-transition-property: text-shadow;
     -moz-transition-duration: 4s;
@@ -46,7 +47,7 @@
 
     text-align: right;
     padding-top: 11em;
-    background-color: #0188cc;
+    background-color: #ADD8E6;
     background-image: -moz-radial-gradient(left top, circle, #6ac9f9 0%, #0188cc 60%);
     background-image: -webkit-gradient(radial, 0 0, 1, 0 0, 500, from(#6ac9f9), to(#0188cc));
   }
@@ -61,7 +62,7 @@
     bottom: 0px;
     left: 50%;
 
-    background-color: #c7c7c7;
+    background-color: #FFFFFF;
   }
 
   h1 {
@@ -86,17 +87,17 @@
 </head>
 <body id="sample">
   <div class="textColumn">
-    <h1>Congratulations</h1>
-    <p>Your first &AWS; Elastic Beanstalk Application is now running on your own dedicated environment in the &AWS; Cloud</p>
+    <h1>Welcome to my page!</h1>
+    <p>Here are some links to a few topics that I am interested in; Check them out below!</p>
   </div>
   
   <div class="linksColumn"> 
-    <h2>What's Next?</h2>
+    <h2>Here's somethings that I am interested in!</h2>
     <ul>
-      <li><a href="http://aws.amazon.com/elasticbeanstalk/ug/">Learn how to build, deploy and manage your own applications using &AWS; Elastic Beanstalk</a></li>
-      <li><a href="http://aws.amazon.com/elasticbeanstalk/concepts/">&AEBlong; concepts</a></li>
-      <li><a href="http://aws.amazon.com/elasticbeanstalk/deployment/">Learn how to create new application versions</a></li>
-      <li><a href="http://aws.amazon.com/elasticbeanstalk/environments/">Learn how to manage your application environments</a></li>
+      <li><a href="https://time.com/6263475/gpt4-ai-projects/</a></li>
+      <li><a href="https://www.codewars.com/dashboard</a></li>
+      <li><a href="https://www.chess.com/home</a></li>
+      <li><a href="https://www.patreon.com/shxtsngigs</a></li>
     </ul>
     <h2>Download the &AWS; Reference Application</h2>
     <ul>
